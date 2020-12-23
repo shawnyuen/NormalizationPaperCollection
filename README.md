@@ -5,3 +5,4 @@
 
 ## 2020
 ### Batch Normalization with Enhanced Linear Transformation arXiv 2020 [[paper]]() [[code]]()
+### Evolving Normalization-Activation Layers arXiv 2020 [[paper]]() [[code]]()
