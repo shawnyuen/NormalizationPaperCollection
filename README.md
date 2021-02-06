@@ -9,3 +9,4 @@
 
 ## 2021
 ### Dynamic Normalization arXiv 2021 [[paper]](https://arxiv.org/abs/2101.06073)
+### SelfNorm and CrossNorm for Out-of-Distribution Robustness arXiv 2021 [[paper]](https://arxiv.org/abs/2102.02811)
