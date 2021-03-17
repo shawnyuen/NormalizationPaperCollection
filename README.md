@@ -32,4 +32,5 @@
 
 ## 2021
 ### Dynamic Normalization arXiv 2021 [[paper]](https://arxiv.org/abs/2101.06073)
+### Sandwich Batch Normalization arXiv 2021 [[paper]](https://arxiv.org/abs/2102.11382) [[code]](https://github.com/VITA-Group/Sandwich-Batch-Normalization)
 ### SelfNorm and CrossNorm for Out-of-Distribution Robustness arXiv 2021 [[paper]](https://arxiv.org/abs/2102.02811)
