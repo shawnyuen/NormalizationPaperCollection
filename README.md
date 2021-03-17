@@ -27,6 +27,8 @@
 ## 2020
 ### Batch Normalization with Enhanced Linear Transformation arXiv 2020 [[paper]](https://arxiv.org/abs/2011.14150) [[code]](https://github.com/yuhuixu1993/BNET)
 ### Evolving Normalization-Activation Layers arXiv 2020 [[paper]](https://arxiv.org/abs/2004.02967) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/resnet)
+### Rethinking Spatially-Adaptive Normalization arXiv 2020 [[paper]]()
+"Class-adaptive Normalization"
 ### Stochastic Normalization NIPS 2020 [[code]](https://github.com/thuml/StochNorm)
 "fine-tuning"
 
