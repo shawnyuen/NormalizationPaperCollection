@@ -8,9 +8,11 @@
 "style transfer"
 ### Layer Normalization arXiv 2016 [[paper]](https://arxiv.org/abs/1607.06450)
 "recurrent networks"
+### Weight Normalization A Simple Reparameterization to Accelerate Training of Deep Neural Networks NIPS 2016 [[paper]](https://arxiv.org/abs/1602.07868)
 
 ## 2018
 ### Decorrelated Batch Normalization CVPR 2018 [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Huang_Decorrelated_Batch_Normalization_CVPR_2018_paper.html)
+### GradNorm Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks ICML 2018 [[paper]](http://proceedings.mlr.press/v80/chen18a.html)
 ### Group Normalization ECCV 2018 [[paper]](https://arxiv.org/abs/1803.08494)
 "tackling small batch sizes"
 ### How Does Batch Normalization Help Optimization NIPS 2018 [[paper]](https://arxiv.org/abs/1805.11604)
